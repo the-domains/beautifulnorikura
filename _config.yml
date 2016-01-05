@@ -1,0 +1,14 @@
+layout_spectrum: 0.8028674
+color:
+  saturation: 0.9863346
+  brandStrength: 0.3942652
+  lightness: 0.7275985
+  brandColors:
+    - '#392716'
+    - '#FB421E'
+    - '#885C39'
+    - '#5EB4EA'
+    - '#F1FCFC'
+  rhythmicContrast: 0.6698805
+typography_spectrum: 0.4677419
+name: '#BeautifulNorikura'
