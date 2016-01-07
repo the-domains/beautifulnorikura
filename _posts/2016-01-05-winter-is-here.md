@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/-hmDXGk23I/'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-01-07T04:08:28.530Z'
+dateModified: '2016-01-07T04:08:21.489Z'
 author:
   - name: beautifulnorikura
     url: 'https://www.instagram.com/beautifulnorikura'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=1126348738551573960'
     type: ios
@@ -19,15 +23,15 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-isBasedOnUrl: 'https://www.instagram.com/p/-hmDXGk23I/'
 title: Winter is here
-datePublished: '2016-01-05T21:00:31.449Z'
-dateModified: '2016-01-05T21:00:08.462Z'
 sourcePath: _posts/2016-01-05-winter-is-here.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
