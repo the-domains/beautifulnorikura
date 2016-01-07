@@ -1,14 +1,28 @@
+name: '#BeautifulNorikura'
+favicon: null
 layout_spectrum: 0.8028674
+typography_spectrum: 0.4677419
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.9863346
-  brandStrength: 0.3942652
-  lightness: 0.7275985
   brandColors:
     - '#392716'
     - '#FB421E'
     - '#885C39'
     - '#5EB4EA'
     - '#F1FCFC'
+  brandStrength: 0.3942652
+  lightness: 0.7275985
+  saturation: 0.9863346
   rhythmicContrast: 0.6698805
-typography_spectrum: 0.4677419
-name: '#BeautifulNorikura'
+purpose: []
