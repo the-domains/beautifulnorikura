@@ -1,5 +1,8 @@
+name: BeautifulNorikura
+favicon: null
+layout_spectrum: 0.7634408
+typography_spectrum: 0.4677419
 title: '#BeautifulNorikura'
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.25
-  brandStrength: 0.3620072
-  lightness: 0.25
-  brandColors:
-    - '#f7deca'
-    - '#b7bbc7'
-    - '#1f282f'
-    - '#6f5f50'
-    - '#9b8173'
-  rhythmicContrast: 0.75
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: '#BeautifulNorikura'
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.4677419
-layout_spectrum: 0.7634408
+color:
+  brandColors:
+    - '#f1dfea'
+    - '#005611'
+    - '#020e0c'
+    - '#008721'
+    - '#97c16f'
+  brandStrength: 0.4375
+  lightness: 0.8125
+  saturation: 0.25
+  rhythmicContrast: 0.75
+purpose: []
