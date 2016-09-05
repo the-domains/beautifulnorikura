@@ -22,7 +22,7 @@ analytics:
 author:
   name: Seth McAllister
   email: ''
-name: BeautifulNorikura
+name: Beautiful Norikura
 cta:
   domain: null
   bucket: null
@@ -45,4 +45,5 @@ collections:
       format: rss
       number: 10
 title: '#BeautifulNorikura'
+description: Explore the Beauty of the Japanese Alps
 purpose: []
